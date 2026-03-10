@@ -1,5 +1,8 @@
-## Hi there 👋
-
+ 👋  Olá, eu sou a Julia 🌸! 
+- 🎓 Estudante de Desenvolvimento de Sistemas 
+- 💻 Focada em Python, HTML e CSS  
+- 🚀 Preparando-se para o mercado de tecnologia
+- 📫 Contato: juloacarvalhodocarmo123@gmail.com
 <!--
 **JuliaCarvalho-Bot/JuliaCarvalho-Bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
